@@ -1,0 +1,16 @@
+$ docker pull continuumio/miniconda3
+$ docker run -i -t continuumio/miniconda3 /bin/bash
+xxxxxxxxxxx:/# pip3 install beautifulsoup4
+xxxxxxxxxxx:/# pip3 install requests
+xxxxxxxxxxx:/# exit
+
+$ docker ps -a
+$ docker commit xxxxxxxxxxx mlearn:init
+
+$ docker run -i -t -v /Users/xxxxx/IdeaProjects:/study-ml-thing mlearn:init
+
+$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+$ brew install python3
+$ brew install pip3
+$ pip3 install BeautifulSoup4
+$ pip3 install requests
