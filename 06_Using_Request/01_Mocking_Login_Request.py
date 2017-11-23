@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 session = requests.session()
 
 # ログイン
-url = "http://mtv.clinks.jp/?controller=login&action=login"
+url = "http://somewhere/?controller=login&action=login"
 data = { # from Form Data
     "login.x": "39", # <someValue>
     "login.y": "12", # <someValue>
@@ -22,7 +22,7 @@ name = soupHome.select_one("#profile-nav > div.menuBody > div.data > div.item.na
 print("name: ", name.string)
 
 # 登録時間を取得
-url = "http://mtv.clinks.jp/?controller=blog&action=top"
+url = "http://somewhere/?controller=blog&action=top"
 response = session.get(url)
 response.raise_for_status()
 # print(response.text)
