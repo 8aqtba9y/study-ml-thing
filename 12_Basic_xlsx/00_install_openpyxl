@@ -1,0 +1,11 @@
+$ docker run -i -t -v /Users/xxxxx/IdeaProjects/study-ml-thing:/study-ml-thing -e ko_KR.UTF-8 -e PYTHONIOENCODING=utf_8 ubuntu-phantomjs /bin/bash
+
+root@<container id>:/
+# pip3 install openpyxl
+
+root@<container id>:/
+# exit
+
+$ docker commit <container id> ubuntu-phantomjs_rv02
+
+$ $ docker run -i -t -v /Users/xxxxx/IdeaProjects/study-ml-thing:/study-ml-thing -e ko_KR.UTF-8 -e PYTHONIOENCODING=utf_8 ubuntu-phantomjs_rv02 /bin/bash

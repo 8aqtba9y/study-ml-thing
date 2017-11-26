@@ -69,5 +69,5 @@ $ docker ps -a
 $ docker commit <container id> ubuntu-phantomjs﻿
 
 // dockerに保存したubuntuイメージを実行
-$ docker run -i -t -v /Users/xxxxx/IdeaProjects:/study-ml-thing -e ko_KR.UTF-8 -e PYTHONIOENCODING=utf_8 ubuntu-phantomjs /bin/bash
+$ docker run -i -t -v /Users/xxxxx/IdeaProjects/study-ml-thing:/study-ml-thing -e ko_KR.UTF-8 -e PYTHONIOENCODING=utf_8 ubuntu-phantomjs /bin/bash
 ```
