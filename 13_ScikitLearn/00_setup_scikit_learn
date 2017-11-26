@@ -1,0 +1,17 @@
+// minicondaのコンテナを実行
+$ docker run -i -t -v /Users/xxxxx/IdeaProjects/study-ml-thing:/study-ml-thing mlearn:init
+
+// -U オプション指定し、scikit-learn, scipy, matplotlib, scikit-imageをインストール
+root@<container id>:/
+# pip install -U scikit-learn scipy matplotlib scikit-image
+
+root@<container id>:/
+# pip install pandas
+
+root@<container id>:/
+# exit
+
+// minicondaのコンテナに上書き
+$ docker commit <container id> mlearn:init
+
+$ docker run -i -t -v /Users/xxxxx/IdeaProjects/study-ml-thing:/study-ml-thing mlearn:init
