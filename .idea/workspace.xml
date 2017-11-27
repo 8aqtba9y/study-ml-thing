@@ -2,16 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="763c0253-d53a-40f3-8743-24a22a7a2a86" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_ScikitLearn_with_pandas/99_preview/00_result.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13_ScikitLearn/00_format_Basic_ScikitLearn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13_ScikitLearn/00_setup_scikit_learn" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_ScikitLearn_with_pandas/00_format_ScikitLearn_with_pandas.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_ScikitLearn_with_pandas/00_iris.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_ScikitLearn_with_pandas/00_iris_raw.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_ScikitLearn_with_pandas/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15_Intermediate_ScikitLearn/00_001_download_mnist.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15_Intermediate_ScikitLearn/00_002_convert_mnist_to_csv.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15_Intermediate_ScikitLearn/00_format_Intermediate_ScikitLearn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/99_preview/00_result.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/00_format_Baic_glob.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/en-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/en-2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/fr-3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/fr-4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/id-5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/id-6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/tl-7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/tl-8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/en-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/en-2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/en-3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/en-4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/en-5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/fr-10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/fr-6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/fr-7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/fr-8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/fr-9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/id-11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/id-12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/id-13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/id-14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/id-15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/tl-16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/tl-17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/tl-18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/tl-19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/tl-20.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,33 +44,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="00_format_Intermediate_ScikitLearn.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15_Intermediate_ScikitLearn/00_format_Intermediate_ScikitLearn.py">
+      <file leaf-file-name="00_format_Baic_glob.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/16_Basic_glob/00_format_Baic_glob.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="1155">
+              <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
               <folding>
-                <element signature="e#0#49#0" expanded="true" />
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="00_002_convert_mnist_to_csv.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/15_Intermediate_ScikitLearn/00_002_convert_mnist_to_csv.py">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/16_Basic_glob/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="00_001_download_mnist.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15_Intermediate_ScikitLearn/00_001_download_mnist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -116,12 +127,14 @@
         <option value="$PROJECT_DIR$/13_ScikitLearn/00_format_Basic_ScikitLearn.py" />
         <option value="$PROJECT_DIR$/15_Intermediate_ScikitLearn/00_002_convert_mnist_to_csv.py" />
         <option value="$PROJECT_DIR$/15_Intermediate_ScikitLearn/00_format_Intermediate_ScikitLearn.py" />
+        <option value="$PROJECT_DIR$/16_Basic_glob/00_format_Baic_glob.py" />
+        <option value="$PROJECT_DIR$/16_Basic_glob/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="854" />
-    <option name="y" value="60" />
+    <option name="x" value="67" />
+    <option name="y" value="129" />
     <option name="width" value="1202" />
     <option name="height" value="790" />
   </component>
@@ -151,22 +164,6 @@
             <path>
               <item name="study-ml-thing" type="b2602c69:ProjectViewProjectNode" />
               <item name="study-ml-thing" type="462c0819:PsiDirectoryNode" />
-              <item name="08_Basic_PhantomJS_Selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study-ml-thing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study-ml-thing" type="462c0819:PsiDirectoryNode" />
-              <item name="08_Basic_PhantomJS_Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="99_preview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study-ml-thing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study-ml-thing" type="462c0819:PsiDirectoryNode" />
-              <item name="13_ScikitLearn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study-ml-thing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study-ml-thing" type="462c0819:PsiDirectoryNode" />
               <item name="14_ScikitLearn_with_pandas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -178,7 +175,13 @@
             <path>
               <item name="study-ml-thing" type="b2602c69:ProjectViewProjectNode" />
               <item name="study-ml-thing" type="462c0819:PsiDirectoryNode" />
-              <item name="15_Intermediate_ScikitLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="16_Basic_glob" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-ml-thing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-ml-thing" type="462c0819:PsiDirectoryNode" />
+              <item name="16_Basic_glob" type="462c0819:PsiDirectoryNode" />
+              <item name="99_preview" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,6 +203,8 @@
       <recent name="$PROJECT_DIR$/11_Basic_xlsx" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/16_Basic_glob/99_preview" />
+      <recent name="$PROJECT_DIR$/16_Basic_glob" />
       <recent name="$PROJECT_DIR$/14_ScikitLearn_with_pandas" />
       <recent name="$PROJECT_DIR$/14_ScikitLearn_with_pandas/99_preview" />
       <recent name="$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/99_preview" />
@@ -286,9 +291,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="854" y="60" width="1202" height="790" extended-state="0" />
+    <frame x="67" y="129" width="1202" height="790" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3698276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3698276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -316,22 +322,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01_docker/00_setup_virtual_environment.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python3/3.6.3/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/01-001_screenshot.png" />
-    <entry file="file://$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/01-002_screenshot.png" />
     <entry file="file://$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/01-003_screenshot.png" />
     <entry file="file://$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/01_screenshot.png" />
     <entry file="file://$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/01_001_screenshot.png" />
@@ -536,14 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13_ScikitLearn/00_setup_scikit_learn">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/13_ScikitLearn/00_format_Basic_ScikitLearn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -596,7 +578,7 @@
     <entry file="file://$PROJECT_DIR$/15_Intermediate_ScikitLearn/00_format_Intermediate_ScikitLearn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>
@@ -605,8 +587,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15_Intermediate_ScikitLearn/00_002_convert_mnist_to_csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_Basic_glob/train/en-1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_ScikitLearn/00_setup_scikit_learn">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_Basic_glob/test/en-1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_Basic_glob/00_format_Baic_glob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_Basic_glob/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
