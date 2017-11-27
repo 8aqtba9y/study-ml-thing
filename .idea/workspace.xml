@@ -2,37 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="763c0253-d53a-40f3-8743-24a22a7a2a86" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/99_preview/00_result.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/00_format_Baic_glob.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/en-1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/en-2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/fr-3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/fr-4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/id-5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/id-6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/tl-7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/test/tl-8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/en-1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/en-2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/en-3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/en-4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/en-5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/fr-10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/fr-6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/fr-7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/fr-8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/fr-9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/id-11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/id-12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/id-13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/id-14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/id-15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/tl-16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/tl-17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/tl-18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/tl-19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_Basic_glob/train/tl-20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/00_format_Basic_glob_with_matplotlib_pyplot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/en-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/en-2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/en-3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/en-4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/en-5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/fr-10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/fr-6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/fr-7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/fr-8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/fr-9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/id-11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/id-12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/id-13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/id-14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/id-15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/tl-16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/tl-17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/tl-18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/tl-19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/train/tl-20.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/16_Basic_glob/00_format_Baic_glob.py" afterPath="$PROJECT_DIR$/16_Basic_glob/00_format_Basic_glob.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,24 +36,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="00_format_Baic_glob.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16_Basic_glob/00_format_Baic_glob.py">
+      <file leaf-file-name="00_format_Basic_glob_with_matplotlib_pyplot.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/00_format_Basic_glob_with_matplotlib_pyplot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1155">
-              <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+            <state relative-caret-position="232">
+              <caret line="88" column="11" lean-forward="false" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/16_Basic_glob/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -129,12 +111,13 @@
         <option value="$PROJECT_DIR$/15_Intermediate_ScikitLearn/00_format_Intermediate_ScikitLearn.py" />
         <option value="$PROJECT_DIR$/16_Basic_glob/00_format_Baic_glob.py" />
         <option value="$PROJECT_DIR$/16_Basic_glob/README.md" />
+        <option value="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/00_format_Basic_glob_with_matplotlib_pyplot.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="67" />
-    <option name="y" value="129" />
+    <option name="x" value="577" />
+    <option name="y" value="133" />
     <option name="width" value="1202" />
     <option name="height" value="790" />
   </component>
@@ -164,23 +147,17 @@
             <path>
               <item name="study-ml-thing" type="b2602c69:ProjectViewProjectNode" />
               <item name="study-ml-thing" type="462c0819:PsiDirectoryNode" />
-              <item name="14_ScikitLearn_with_pandas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study-ml-thing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study-ml-thing" type="462c0819:PsiDirectoryNode" />
-              <item name="14_ScikitLearn_with_pandas" type="462c0819:PsiDirectoryNode" />
-              <item name="99_preview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study-ml-thing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study-ml-thing" type="462c0819:PsiDirectoryNode" />
               <item name="16_Basic_glob" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study-ml-thing" type="b2602c69:ProjectViewProjectNode" />
               <item name="study-ml-thing" type="462c0819:PsiDirectoryNode" />
-              <item name="16_Basic_glob" type="462c0819:PsiDirectoryNode" />
+              <item name="17_Basic_glob_with_matplotlib_pyplot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study-ml-thing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study-ml-thing" type="462c0819:PsiDirectoryNode" />
+              <item name="17_Basic_glob_with_matplotlib_pyplot" type="462c0819:PsiDirectoryNode" />
               <item name="99_preview" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -198,16 +175,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/99_preview" />
       <recent name="$PROJECT_DIR$/14_Intermediate_ScikitLearn_01" />
       <recent name="$PROJECT_DIR$/11_Basic_csv" />
       <recent name="$PROJECT_DIR$/11_Basic_xlsx" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot" />
       <recent name="$PROJECT_DIR$/16_Basic_glob/99_preview" />
       <recent name="$PROJECT_DIR$/16_Basic_glob" />
       <recent name="$PROJECT_DIR$/14_ScikitLearn_with_pandas" />
       <recent name="$PROJECT_DIR$/14_ScikitLearn_with_pandas/99_preview" />
-      <recent name="$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/99_preview" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -291,18 +269,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="129" width="1202" height="790" extended-state="0" />
-    <editor active="true" />
+    <frame x="577" y="133" width="1202" height="790" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3698276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47338128" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16258992" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3698276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -322,10 +300,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/01-003_screenshot.png" />
-    <entry file="file://$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/01_screenshot.png" />
-    <entry file="file://$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/01_001_screenshot.png" />
-    <entry file="file://$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/01_002_screenshot.png" />
     <entry file="file://$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/01_003_screenshot.png" />
     <entry file="file://$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/01_screenshot_001.png" />
     <entry file="file://$PROJECT_DIR$/08_Basic_PhantomJS_Selenium/01_screenshot_002.png" />
@@ -617,21 +591,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/16_Basic_glob/00_format_Baic_glob.py">
+    <entry file="file://$PROJECT_DIR$/16_Basic_glob/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/test/en-1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16_Basic_glob/00_format_Basic_glob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="93" column="13" lean-forward="false" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/16_Basic_glob/README.md">
+    <entry file="file://$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/00_lang-plot.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_Basic_glob_with_matplotlib_pyplot/00_format_Basic_glob_with_matplotlib_pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="88" column="11" lean-forward="false" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
