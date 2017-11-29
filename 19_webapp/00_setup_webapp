@@ -1,0 +1,26 @@
+// port forwarding option
+$ docker run -it -v /Users/xxxxx/IdeaProjects/study-ml-thing:/study-ml-thing -p 8000:8000 mlearn:init
+
+// dos2unixをインストール
+root@<container id>:/
+# apt-get install dos2unix
+
+// windowをunixに変換
+root@<container id>:/
+# dos2unix study-ml-thing/19_webapp/00_lang-webapp.py
+dos2unix: converting file study-ml-thing/19_webapp/00_lang-webapp.py to Unix format ...
+
+root@<container id>:/
+# apt-get install dos2unix
+
+// 権限変更
+root@<container id>:/
+# chmod a+x study-ml-thing/19_webapp/cgi-bin/webapp.py
+
+// serverを起動
+root@<container id>:/
+# cd study-ml-thing/19_webapp/
+
+root@<container id>:/study-ml-thing/19_webapp
+# python -m http.server --cgi 8000
+Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
