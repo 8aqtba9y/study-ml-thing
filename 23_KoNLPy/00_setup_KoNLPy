@@ -1,0 +1,35 @@
+// javaをインストール(;KoNLPyは内部的にjavaを使う)
+root@<container id>:/
+# apt-get update
+
+root@<container id>:/
+# apt-get install g++ openjdk-7-jdk python-dev python3-dev
+...
+Do you want to continue? [Y/n] y
+...
+done.
+
+
+// konlpyをインストール
+root@<container id>:/
+# pip install konlpy
+
+
+// jpype1をインストール
+root@<container id>:/
+# conda update --all
+...
+Proceed ([y]/n)? y
+...
+
+root@<container id>:/
+# pip install jpype1
+
+
+// docker commit
+root@<container id>:/
+# exit
+
+$ docker commit <container id> mlearn:init
+
+$ docker run -it -v /Users/xxxxx/IdeaProjects/study-ml-thing:/study-ml-thing mlearn:init

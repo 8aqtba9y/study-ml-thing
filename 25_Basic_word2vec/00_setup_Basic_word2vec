@@ -1,0 +1,11 @@
+// gensimをインストール
+root@<container id>:/
+# pip install gensim
+
+// docker commit
+root@<container id>:/
+# exit
+
+$ docker commit <container id> mlearn:init
+
+$ docker run -it -v /Users/xxxxx/IdeaProjects/study-ml-thing:/study-ml-thing mlearn:init
