@@ -1,0 +1,58 @@
+// pythonのバージョン確認
+root@<container id>:/
+# python --version
+Python 3.6.2 :: Anaconda, Inc.
+
+// tensorflowをインストール
+root@<container id>:/
+# conda create -n tensorflow python=3.6
+...
+Proceed ([y]/n)? y
+...
+
+root@<container id>:/
+# pip install tensorflow
+
+// kerasをインストール
+root@<container id>:/
+# pip install keras
+
+
+// nano editorをインストール
+root@<container id>:/
+# apt-get install nano
+
+// keras dirを生成
+root@<container id>:/
+# mkdir ~/.keras
+
+// keras.jsonファイルを生成
+root@<container id>:/
+# nano ~/.keras/keras.json
+
+```json:keras.json
+{
+    "image_dim_ordering": "tf",
+    "epsilon": 1e-07,
+    "floatx": "float32",
+    "backend": "tensorflow"
+}
+```
+
+// 内容を確認
+root@<container id>:/
+# cat ~/.keras/keras.json
+{
+    "image_dim_ordering": "tf",
+    "epsilon": 1e-07,
+    "floatx": "float32",
+    "backend": "tensorflow"
+}
+
+// docker commit
+root@<container id>:/
+# exit
+
+$ docker commit <container id> mlearn:init
+
+$ docker run -it -v /Users/xxxxx/IdeaProjects/study-ml-thing:/study-ml-thing mlearn:init
